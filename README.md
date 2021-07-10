@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhayb443
+- 👋 Hi, I’m Abhay Pandey - @abhayb443
 - 👀 I’m interested in Python Development, Machine Learning and AI
 - 🌱 I’m currently learning api and service development
 - 💞️ I’m looking to collaborate on ML based services
