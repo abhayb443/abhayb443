@@ -151,7 +151,7 @@ I'm always open to collaborating on:
 ## Connect With Me
 
 - **Email:** [pandeyabhay444@gmail.com](mailto:pandeyabhay444@gmail.com)
-- **LinkedIn:** [linkedin.com/in/abhayb443](https://linkedin.com/in/abhayb443)
+- **LinkedIn:** [linkedin.com/in/abhay-pandey-868085a0](https://www.linkedin.com/in/abhay-pandey-868085a0/)
 - **GitHub:** [github.com/abhayb443](https://github.com/abhayb443)
 
 ---
